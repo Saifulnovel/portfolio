@@ -1,0 +1,74 @@
+[
+    {
+        "id":"1",
+        "projectsName":"Focus",
+        "image":"https://i.ibb.co/n65n6Qq/Screenshot-61.png",
+        "like":"90",
+        "view":"120",
+        "details":"This is a Pre-owened camera resell Website",
+        "d1":"Buyers can see their preferred camera shorted as categorized.",
+        "d2":"Different register systems for buyer, seller, and admin.",
+        "d3":"Seller can add a product for sale."
+    },
+    {
+        "id":"1",
+        "projectsName":"Go Wild",
+        "image":"https://i.ibb.co/XphTJQp/Screenshot-60.png",
+        "like":"99",
+        "view":"150",
+        "details":"Here we sell outstanding Wildlife Photopraphy",
+        "d1":"Visitors can register as a client. JWT tokens have been used.",
+        "d2":"They can book any of our photographs. ",
+        "d3":"Clients can add a review, can add their service rating."
+    },
+    {
+        "id":"1",
+        "projectsName":"Hello Learner",
+        "image":"https://i.ibb.co/60fyV0Z/Screenshot-59.png",
+        "like":"67",
+        "view":"106",
+        "details":"Online Learning Platform",
+        "d1":"There are 6 different courses here.",
+        "d2":" Learners can register to the website by email and password.",
+        "d3":" Learners can get a course’s premium access."
+    },
+    {
+        "id":"1",
+        "projectsName":"Grey Cells Fix",
+        "image":"https://i.ibb.co/M20BSJ3/Screenshot-58.png",
+        "like":"48",
+        "view":"89",
+        "details":"Online Skill test service",
+        "d1":"You can recheck your idea about programming languages",
+        "d2":"There are 4 options , you should select right one",
+        "d3":"Right answer can be shown"
+    },
+    {
+        "id":"1",
+        "projectsName":"Fit Everyday",
+        "image":"https://i.ibb.co/fn6n9pw/Screenshot-57.png",
+        "like":"69",
+        "view":"97",
+        "details":"Your Fitness care is here",
+        "d1":"There are some fitness training.",
+        "d2":"Exercises details are shown here",
+        "d3":"Your Exercise time and break times  displayed calculatly"
+    },
+    {
+        "id":"1",
+        "projectsName":"News And Views",
+        "image":"https://i.ibb.co/MZCdfvC/Screenshot-55.png",
+        "like":"120",
+        "view":"144",
+        "details":"Oneline news portal service",
+        "d1":"You can read Political news",
+        "d2":"You can read Sports News",
+        "d3":"News were displayed categorywised"
+    }
+]
+
+
+
+
+
+
