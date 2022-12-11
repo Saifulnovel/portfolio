@@ -141,7 +141,7 @@ export default function Navbar() {
           <Link to='/about' className="mr-5 font-bold text-white">
             About Me
           </Link>
-          <Link to='' className="mr-5 font-bold text-white">
+          <Link to='/blog' className="mr-5 font-bold text-white">
             Blogs
           </Link>
         </nav>

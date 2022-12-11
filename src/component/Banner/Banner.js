@@ -7,14 +7,14 @@ import Pulse from "react-reveal/Pulse";
 const Banner = () => {
     return (
       <div>
-        <div className="hero min-h-screen bg-base-200">
+        <div className="hero min-h-screen bg-slate-600">
           <div className="hero-content flex-col lg:flex-row">
             <Zoom>
-              <img src={logo} className=" rounded-lg shadow-2xl" />
+              <img src={logo} className=" rounded-lg shadow-2xl " />
             </Zoom>
             <div>
               <Pulse>
-                <h1 className="text-5xl font-bold">Saiful Islam Novel</h1>
+                <h1 className="text-5xl text-white font-bold">Saiful Islam Novel</h1>
               </Pulse>
               <div className="text-2xl font-serif font-bold">
                 <Typewriter
@@ -23,7 +23,7 @@ const Banner = () => {
 
                       .pauseFor(300)
                       .deleteChars(10)
-                      .typeString("<strong>Front-End</strong>  ")
+                      .typeString("<strong >Front-End</strong>  ")
                       .typeString(
                         '<strong>Web<span style="color: #6ED4C8">Developer</span></strong>'
                       )

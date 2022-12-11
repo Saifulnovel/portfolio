@@ -27,12 +27,12 @@ const Contact = () => {
       );
   };
   return (
-    <div className="bg-slate-500">
+    <div className="bg-slate-600 ">
       <section className=" body-font ">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 ">
-              Contact Us
+              Contact Me
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-gray-200">
               Please fill the form
@@ -89,7 +89,7 @@ const Contact = () => {
                   </div>
                 </div>
                 <div className="p-2 w-full">
-                  <button className="flex mx-auto text-white bg-orange-400 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg">
+                  <button className="flex mx-auto text-white btn-outline border-2 border-white py-2 px-8 focus:outline-none hover:bg-white hover:text-slate-700 rounded text-lg">
                     Hire me
                   </button>
                 </div>
