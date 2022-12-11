@@ -27,7 +27,7 @@ const Contact = () => {
       );
   };
   return (
-    <div className="bg-slate-600 ">
+    <div id="contact" className="bg-slate-600 ">
       <section className=" body-font ">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
