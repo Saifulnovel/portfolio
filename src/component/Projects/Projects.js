@@ -8,7 +8,7 @@ const Projects = () => {
             <h1 className='text-6xl mb-8 font-extrabold font-serif text-center text-green-300'>Projects</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {datas.map((data) => (
-            <div className="mx-auto">
+            <div key={data.key} className="mx-auto">
               <div className="card card-compact w-96 bg-base-100 shadow-2xl">
                 <figure>
                   <img src={data.image} alt="Shoes" />
